@@ -2,7 +2,7 @@
 
 **Trabajo Práctico — AI Engineering | Coderhouse**
 
-**Autor:** Fernando Tasín  
+**Autor:** Fernando Tasín
 **Lenguaje:** Python 3.12
 
 ---
